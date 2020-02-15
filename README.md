@@ -1,7 +1,7 @@
 ### RoguelikeProject
-#Roguelike Dungeon Crawler I'm Working On
+# Roguelike Dungeon Crawler I'm Working On
 
-##To Do
+## To Do
 
 - [ ] Start
 - [ ] Player Controls
