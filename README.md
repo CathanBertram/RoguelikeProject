@@ -16,3 +16,4 @@
 - [ ] RNG Drops
 - [ ] Procedural Generation
 - [ ] Art
+- [ ] Optional Turn-Based Combat
