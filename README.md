@@ -11,4 +11,8 @@
 - [ ] Inventory
 - [ ] Shop
 - [ ] Money Drops
+- [ ] Menus
+- [ ] Bosses
+- [ ] RNG Drops
 - [ ] Procedural Generation
+- [ ] Art
