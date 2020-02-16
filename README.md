@@ -13,6 +13,7 @@
 - [ ] Money Drops
 - [ ] Menus
 - [ ] Bosses
+- [ ] Enemy AI
 - [ ] RNG Drops
 - [ ] Procedural Generation
 - [ ] Art
